@@ -2,13 +2,7 @@ package gittutorial.jsp.git;
 
 public class NewGit {
 
-	//change1
-	
 	public static void main(String[] args) {
-		System.out.println("n");
+		System.out.println("git push origin devv");
 	}
-
-	
-	
-	//change2
 }
